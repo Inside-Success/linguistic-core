@@ -16,7 +16,7 @@ dependencies = [
 
 [project.optional-dependencies]
 review = [
-  "llm-client @ git+https://github.com/BrianMills2718/llm_client.git",
+  "llm-client @ git+https://github.com/Inside-Success/llm_client.git@e4f3a0be3f4b9636f951c9f40e881a34442e33d1",
 ]
 dev = [
   "pytest>=8.0",
